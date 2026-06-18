@@ -72,4 +72,3 @@ The model predicts the likelihood of heart disease and evaluates performance usi
 ## Author
 
 Safoora
-CodeAlpha Machine Learning Internship
